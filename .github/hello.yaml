@@ -10,4 +10,3 @@ jobs:
     steps:
       - name: "Hello to develop branch"
         run: echo "Hello to develop branch"
-             
